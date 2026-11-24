@@ -1,0 +1,8 @@
+{
+  "name": "Remix Neon Velocity 3D - Cyber Hover Racer",
+  "description": "Telefon va kompyuter uchun to\u0027liq moslashgan 3D poyga o\u0027yini. Responsive sensorli boshqaruv, klaviatura, garaj va effektlar.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
